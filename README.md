@@ -1,16 +1,88 @@
-# flutter_course_for_beginners_msc
+<img width="480" alt="d406c736e7c4c57f5f61" src="https://github.com/user-attachments/assets/a1ea67f4-8074-43c3-8a4d-c45e6f4b609c" />
 
-A new Flutter project.
+# Flutter Course for Beginners ([MSC OI](https://www.facebook.com/profile.php?id=61563397411154))
+
+
+
+
+## Overview
+This project is a beginner-friendly Flutter application designed as part of the **MSC OI Flutter Course**. It serves as a foundational guide to learning Flutter, covering essential concepts, widgets, and best practices.
+## Features
+- Introduction to Flutter framework
+- Basic UI components and layout building
+- Navigation and routing
+- State management basics
+- API integration examples
+
+---
+
+## Prerequisites
+Before running this project, ensure you have:
+- Flutter SDK installed
+- Dart installed
+- Android Studio or VS Code with Flutter & Dart extensions
+- An emulator or physical device for testing
+
+If you haven't installed Flutter yet or want to verify your installation, check this guide: [Flutter Installation Guide](https://github.com/MAHMOUDELSAYED7/Flutter-Installation-Guide)
+
+---
+
 
 ## Getting Started
+Follow these steps to set up and run the project:
 
-This project is a starting point for a Flutter application.
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/MAHMOUDELSAYED7/Flutter-Course-for-beginners-MSC-OI.git
+   cd Flutter-Course-for-beginners-MSC-OI
+   ```
 
-A few resources to get you started if this is your first Flutter project:
+2. **Install dependencies:**
+   ```sh
+   flutter pub get
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. **Run the app:**
+   ```sh
+   flutter run
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Sessions
+Here is a list of sessions along with their related commits:
+
+- **Session 1: Introduction to Flutter** - [Code Link](#)
+
+![Dash_map_image width-556](https://github.com/user-attachments/assets/d744d3a7-ba49-43fd-9437-50c38b6d7e4d)
+
+---
+
+## Resources
+Here are some helpful resources for Flutter development:
+- [Flutter Codelab - Write your first app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter Cookbook - Useful examples](https://docs.flutter.dev/cookbook)
+- [Flutter Official Documentation](https://docs.flutter.dev/)
+
+![header-Top-apps-made-with-Flutter-framework](https://github.com/user-attachments/assets/230658af-762c-4ec8-a82f-12b0dd58601b)
+
+- **YouTube Channels for Learning Flutter:**
+  - [Flutter - Official YouTube Channel](https://www.youtube.com/c/flutterdev)
+  - [Vandad Nahavandipoor](https://www.youtube.com/@VandadNP)
+  - [Tarek Alabd](https://www.youtube.com/@TarekAlabd)
+  - [Flutter Mapp](https://www.youtube.com/@FlutterMapp)
+  - [Hey Flutter](https://www.youtube.com/@HeyFlutter)
+  - [Dev MENA - Middle East and North Africa](https://www.youtube.com/@DevMENA)
+  - [Flutter Guys](https://www.youtube.com/@flutterguys)
+  - [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
+  - [Reso Coder](https://www.youtube.com/c/ResoCoder)
+  - [Fireship - Quick Flutter Guides](https://www.youtube.com/c/Fireship)
+
+## Contribution
+Feel free to contribute to this project by submitting issues, feature requests, or pull requests.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+Happy coding with Flutter! 🚀
