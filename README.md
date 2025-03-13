@@ -56,6 +56,7 @@ Here is a list of sessions along with their related commits:
 - **Session 2:  More widgets & assets** - [Code Link](https://github.com/MAHMOUDELSAYED7/Flutter-Course-for-beginners-MSC-OI/tree/521fd97a450755022740d9372edfd2a1ad0ae6ce/lib)
 - **Session 3, 4: Buttons & TextField** - [Code Link](https://github.com/MAHMOUDELSAYED7/Flutter-Course-for-beginners-MSC-OI/tree/71e8cb282cb6f492835a8aa2548bcc5afd4980c5/lib)
 - **Session 5: Form & Validation** - [Code Link](https://github.com/MAHMOUDELSAYED7/Flutter-Course-for-beginners-MSC-OI/tree/73c51a26638cf8b16b9fd00031ffe5fa7e39cc1c/lib)
+- **Session 6: ListViews & Data Handling** - [Code Link](https://github.com/MAHMOUDELSAYED7/Flutter-Course-for-beginners-MSC-OI/blob/684632c363584a945d88aa4a893bf1300c754fb1/lib/home.dart)
   
 ![Dash_map_image width-556](https://github.com/user-attachments/assets/d744d3a7-ba49-43fd-9437-50c38b6d7e4d)
 
