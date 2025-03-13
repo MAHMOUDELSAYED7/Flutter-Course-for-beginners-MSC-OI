@@ -1,6 +1,7 @@
 import 'dart:developer';
 
 import 'package:flutter/material.dart';
+import 'package:flutter_course_for_beginners_msc/home.dart';
 import 'package:flutter_course_for_beginners_msc/register.dart';
 
 import 'my_snackbar.dart';
@@ -139,10 +140,15 @@ class _LoginScreenState extends State<LoginScreen> {
                     onPressed: () {
                       if (formKey.currentState?.validate() ?? false) {
                         formKey.currentState?.save();
-                        showMyDialog();
+                        // showMyDialog();
                         //! SNACKBAR
                         // showMySnackBar( context, "Login Successufly");
                         log("Email: $email , Password: $password");
+                        Navigator.pushReplacement(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) => HomeScreen(),
+                            ));
                       }
                     },
                   ),
